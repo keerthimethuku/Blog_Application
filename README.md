@@ -2,7 +2,7 @@
 
 A full-stack blogging platform where users can sign up, create, edit, and delete blog posts with images. Built using React on the frontend and Appwrite as the backend service for authentication, database, and storage.
 
-Features
+## Features
 
  User authentication and session handling.
 
@@ -14,7 +14,7 @@ Features
 
  Responsive UI with Tailwind CSS.
 
-Tech Stack
+## Tech Stack
 
 Frontend: React, Vite, Tailwind CSS, React Router, Context API
 
